@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Heavy video & model weights
+*.mp4
+*.pt
+runs/
+
+# Streamlit config
+.streamlit/
